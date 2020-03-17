@@ -26,15 +26,23 @@ You can create your keyboard layout in this address.
 You can create your keyboard firmware in this address.
 
 ### Keymap
-**Normal**
+
+#### Normal
+
 ![KN](./keyboardn.png)
-**Layer-1**
+
+#### Layer-1
+
 ![KL1](./keyboardl1.png)
-**Layer-2**
+
+#### Layer-2
+
 ![KL2](./keyboardl2.png)
 
 ### Pins
+
 ![PIN](./keyboardpin.png)
 
 # Result
+
 ![Keyboard](./mykeyboard.jpeg)
